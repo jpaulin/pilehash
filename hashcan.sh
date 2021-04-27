@@ -2,7 +2,7 @@
 
 # Prints a footer (signature) of the tool itself
 myfinger () {
-    echo "hashcat v0.1"
+    echo "pilehash v0.1"
 }
 
 #
